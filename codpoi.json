@@ -1,0 +1,181 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396057,
+          "lon": -99.0910132
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/estante-para-libros.png"
+      },
+      "id": 1,
+      "text": {
+        "title": "Biblioteca Principal"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396057,
+          "lon": -99.0910132
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/futbol-americano.png"
+      },
+      "icon": {
+        "url": "http://"
+      },
+      "id": 2,
+      "text": {
+        "title": "Campo de la Ola verde"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 19.39607,
+          "lon": -99.0909492
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/violin.png"
+      },
+      "id": 3,
+      "text": {
+        "title": "Edificio Culturales"
+      }
+    },
+	{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.395068,
+          "lon": -99.0913442
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/raton-de-la-computadora.png"
+      },
+      "id": 4,
+      "text": {
+        "title": "Edificio Ingenieria"
+      }
+    },
+	{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.39479,
+          "lon": -99.0904802
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/pendulo-de-newton.png"
+      },
+      "id": 5,
+      "text": {
+        "title": "Laboratotios Pesados"
+      }
+    },
+	{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.3958774,
+          "lon": -99.091909
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/medalla.png"
+      },
+      "id": 6,
+      "text": {
+        "title": "Gimnasio UPIICSA"
+      }
+    },
+	{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396677,
+          "lon": -99.0925472
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/el-planeta-tierra.png"
+      },
+      "id": 7,
+      "text": {
+        "title": "Edificio Sociales"
+      }
+    },
+		{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396677,
+          "lon": -99.0925472
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/estudiante.png"
+      },
+      "id": 8,
+      "text": {
+        "title": "Centro de Apoyo a Estudiantes"
+      }
+    },
+			{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.39693,
+          "lon": -99.0938992
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/tubos-de-ensayo.png"
+      },
+      "id": 9,
+      "text": {
+        "title": "Laboratotios Ligeros"
+      }
+    },
+				{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396477,
+          "lon": -99.0939342
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/pizarra.png"
+      },
+      "id": 10,
+      "text": {
+        "title": "Edificio Ciencias Basicas"
+      }
+    },
+					{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396477,
+          "lon": -99.0939342
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/estante-para-libros.png"
+      },
+      "id": 11,
+      "text": {
+        "title": "Biblioteca Graduados"
+      }
+    },
+						{
+      "anchor": {
+        "geolocation": {
+          "lat": 19.396854,
+          "lon": -99.0950162
+        }
+              "icon": {
+        "url": "https://github.com/Yadimg/Prueba/blob/master/birrete.png"
+      },
+      "id": 12,
+      "text": {
+        "title": "Edificio Posgrados"
+      }
+    },
+  ]
+  "layer": "englappyg6q",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
+}
