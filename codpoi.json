@@ -7,9 +7,9 @@
         "geolocation": {
           "lat": 19.396057,
           "lon": -99.0910132
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/estante-para-libros.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/4c7570280a5da4b50235a1e66ca12613ce41a6c2/estante-para-libros.png"
       },
       "id": 1,
       "text": {
@@ -21,12 +21,9 @@
         "geolocation": {
           "lat": 19.396057,
           "lon": -99.0910132
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/futbol-americano.png"
-      },
-      "icon": {
-        "url": "http://"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/futbol-americano.png"
       },
       "id": 2,
       "text": {
@@ -38,9 +35,9 @@
         "geolocation": {
           "lat": 19.39607,
           "lon": -99.0909492
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/violin.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/violin.png"
       },
       "id": 3,
       "text": {
@@ -52,9 +49,9 @@
         "geolocation": {
           "lat": 19.395068,
           "lon": -99.0913442
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/raton-de-la-computadora.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/raton-de-la-computadora.png"
       },
       "id": 4,
       "text": {
@@ -66,9 +63,9 @@
         "geolocation": {
           "lat": 19.39479,
           "lon": -99.0904802
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/pendulo-de-newton.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/pendulo-de-newton.png"
       },
       "id": 5,
       "text": {
@@ -80,9 +77,9 @@
         "geolocation": {
           "lat": 19.3958774,
           "lon": -99.091909
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/medalla.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/medalla.png"
       },
       "id": 6,
       "text": {
@@ -94,9 +91,9 @@
         "geolocation": {
           "lat": 19.396677,
           "lon": -99.0925472
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/el-planeta-tierra.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/el-planeta-tierra.png"
       },
       "id": 7,
       "text": {
@@ -108,9 +105,9 @@
         "geolocation": {
           "lat": 19.396677,
           "lon": -99.0925472
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/estudiante.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/estudiante.png"
       },
       "id": 8,
       "text": {
@@ -122,9 +119,9 @@
         "geolocation": {
           "lat": 19.39693,
           "lon": -99.0938992
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/tubos-de-ensayo.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/tubos-de-ensayo.png"
       },
       "id": 9,
       "text": {
@@ -136,9 +133,9 @@
         "geolocation": {
           "lat": 19.396477,
           "lon": -99.0939342
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/pizarra.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/pizarra.png"
       },
       "id": 10,
       "text": {
@@ -150,9 +147,9 @@
         "geolocation": {
           "lat": 19.396477,
           "lon": -99.0939342
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/estante-para-libros.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/estante-para-libros.png"
       },
       "id": 11,
       "text": {
@@ -164,9 +161,9 @@
         "geolocation": {
           "lat": 19.396854,
           "lon": -99.0950162
-        }
+        },
               "icon": {
-        "url": "https://github.com/Yadimg/Prueba/blob/master/birrete.png"
+        "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/birrete.png"
       },
       "id": 12,
       "text": {
