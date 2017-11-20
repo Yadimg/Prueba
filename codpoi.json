@@ -7,7 +7,8 @@
         "geolocation": {
           "lat": 19.396057,
           "lon": -99.0910132
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/4c7570280a5da4b50235a1e66ca12613ce41a6c2/estante-para-libros.png"
       },
@@ -16,13 +17,13 @@
         "title": "Biblioteca Principal"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396057,
           "lon": -99.0910132
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/futbol-americano.png"
       },
@@ -31,13 +32,13 @@
         "title": "Campo de la Ola verde"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.39607,
           "lon": -99.0909492
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/violin.png"
       },
@@ -46,13 +47,13 @@
         "title": "Edificio Culturales"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.395068,
           "lon": -99.0913442
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/raton-de-la-computadora.png"
       },
@@ -61,13 +62,13 @@
         "title": "Edificio Ingenieria"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.39479,
           "lon": -99.0904802
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/pendulo-de-newton.png"
       },
@@ -76,13 +77,13 @@
         "title": "Laboratotios Pesados"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.3958774,
           "lon": -99.091909
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/medalla.png"
       },
@@ -91,13 +92,13 @@
         "title": "Gimnasio UPIICSA"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396677,
           "lon": -99.0925472
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/el-planeta-tierra.png"
       },
@@ -106,13 +107,13 @@
         "title": "Edificio Sociales"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396677,
           "lon": -99.0925472
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/estudiante.png"
       },
@@ -121,13 +122,13 @@
         "title": "Centro de Apoyo a Estudiantes"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.39693,
           "lon": -99.0938992
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/tubos-de-ensayo.png"
       },
@@ -136,13 +137,13 @@
         "title": "Laboratotios Ligeros"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396477,
           "lon": -99.0939342
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/pizarra.png"
       },
@@ -151,13 +152,13 @@
         "title": "Edificio Ciencias Basicas"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396477,
           "lon": -99.0939342
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/estante-para-libros.png"
       },
@@ -166,13 +167,13 @@
         "title": "Biblioteca Graduados"
       }
     },
-    }
     {
       "anchor": {
         "geolocation": {
           "lat": 19.396854,
           "lon": -99.0950162
-        },
+        }
+      },
               "icon": {
         "url": "https://raw.githubusercontent.com/Yadimg/Prueba/master/birrete.png"
       },
@@ -181,6 +182,5 @@
         "title": "Edificio Posgrados"
       }
     },
-    }
   ]
 }
