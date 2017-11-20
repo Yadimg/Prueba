@@ -17,6 +17,7 @@
       }
     },
     }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396057,
@@ -30,6 +31,8 @@
         "title": "Campo de la Ola verde"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.39607,
@@ -43,6 +46,8 @@
         "title": "Edificio Culturales"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.395068,
@@ -56,6 +61,8 @@
         "title": "Edificio Ingenieria"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.39479,
@@ -69,6 +76,8 @@
         "title": "Laboratotios Pesados"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.3958774,
@@ -82,6 +91,8 @@
         "title": "Gimnasio UPIICSA"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396677,
@@ -95,6 +106,8 @@
         "title": "Edificio Sociales"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396677,
@@ -108,6 +121,8 @@
         "title": "Centro de Apoyo a Estudiantes"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.39693,
@@ -121,6 +136,8 @@
         "title": "Laboratotios Ligeros"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396477,
@@ -134,6 +151,8 @@
         "title": "Edificio Ciencias Basicas"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396477,
@@ -147,6 +166,8 @@
         "title": "Biblioteca Graduados"
       }
     },
+    }
+    {
       "anchor": {
         "geolocation": {
           "lat": 19.396854,
@@ -160,5 +181,6 @@
         "title": "Edificio Posgrados"
       }
     },
+    }
   ]
 }
